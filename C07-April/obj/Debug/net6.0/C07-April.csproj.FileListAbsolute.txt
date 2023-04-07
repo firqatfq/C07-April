@@ -1,0 +1,15 @@
+C:\Users\firqatfq\source\repos\C07-April\C07-April\bin\Debug\net6.0\C07-April.exe
+C:\Users\firqatfq\source\repos\C07-April\C07-April\bin\Debug\net6.0\C07-April.deps.json
+C:\Users\firqatfq\source\repos\C07-April\C07-April\bin\Debug\net6.0\C07-April.runtimeconfig.json
+C:\Users\firqatfq\source\repos\C07-April\C07-April\bin\Debug\net6.0\C07-April.dll
+C:\Users\firqatfq\source\repos\C07-April\C07-April\bin\Debug\net6.0\C07-April.pdb
+C:\Users\firqatfq\source\repos\C07-April\C07-April\obj\Debug\net6.0\C07-April.csproj.AssemblyReference.cache
+C:\Users\firqatfq\source\repos\C07-April\C07-April\obj\Debug\net6.0\C07-April.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firqatfq\source\repos\C07-April\C07-April\obj\Debug\net6.0\C07-April.AssemblyInfoInputs.cache
+C:\Users\firqatfq\source\repos\C07-April\C07-April\obj\Debug\net6.0\C07-April.AssemblyInfo.cs
+C:\Users\firqatfq\source\repos\C07-April\C07-April\obj\Debug\net6.0\C07-April.csproj.CoreCompileInputs.cache
+C:\Users\firqatfq\source\repos\C07-April\C07-April\obj\Debug\net6.0\C07-April.dll
+C:\Users\firqatfq\source\repos\C07-April\C07-April\obj\Debug\net6.0\refint\C07-April.dll
+C:\Users\firqatfq\source\repos\C07-April\C07-April\obj\Debug\net6.0\C07-April.pdb
+C:\Users\firqatfq\source\repos\C07-April\C07-April\obj\Debug\net6.0\C07-April.genruntimeconfig.cache
+C:\Users\firqatfq\source\repos\C07-April\C07-April\obj\Debug\net6.0\ref\C07-April.dll
